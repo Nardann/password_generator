@@ -1,2 +1,2 @@
 # password_generator is created by Nardann
-## wiki
+## wiki : https://github.com/Nardann/password_generator/wiki
